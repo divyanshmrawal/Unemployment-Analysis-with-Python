@@ -2,9 +2,9 @@
 
 ## The Problem
 
-Unemployment is not just a number. When people lose jobs — or cannot find one — it affects everything around them. Families struggle, spending goes down, local businesses close, and the economy slows down. If too many people are unemployed at the same time, it creates a chain reaction that is very hard to stop once it starts.
+Unemployment is not just a number. When people lose jobs or cannot find one it affects everything around them. Families struggle, spending goes down, local businesses close, and the economy slows down. If too many people are unemployed at the same time, it creates a chain reaction that is very hard to stop once it starts.
 
-The real danger is not just the current unemployment. The real danger is when a crisis hits — like a pandemic, a recession, or a natural disaster — and we are not prepared for it. We do not know which areas will be hit the hardest, which months are already vulnerable, or how long it will take to recover.
+The real danger is not just the current unemployment. The real danger is when a crisis hits like a pandemic, a recession, or a natural disaster — and we are not prepared for it. We do not know which areas will be hit the hardest, which months are already vulnerable, or how long it will take to recover.
 
 That is the problem this project tries to address.
 
@@ -18,7 +18,7 @@ India went through one of the worst employment crises in recent history during 2
 
 If we can answer these questions by looking at past data, we can be in a much better position the next time something like this happens. We can identify which regions need the most support, when unemployment tends to rise, and what the warning signs look like before things get bad.
 
-That is the story behind this project — not just analysis for the sake of analysis, but analysis that can actually help us prepare.
+That is the story behind this project not just analysis for the sake of analysis, but analysis that can actually help us prepare.
 
 ---
 
